@@ -1,1 +1,1 @@
-# python_avtotest
+# repository for python avtotest
